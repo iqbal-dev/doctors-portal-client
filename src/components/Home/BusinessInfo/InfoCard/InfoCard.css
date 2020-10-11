@@ -1,0 +1,16 @@
+.info-card{
+    padding:0 10px;
+}
+.info-primary {
+    background:#12D0DC;
+}
+.info-dark {
+    background:#3A4256;
+}
+.info-icon {
+    font-size:3em
+}
+.info-contain{
+    height:100px;
+    padding: 0 30px;
+}
